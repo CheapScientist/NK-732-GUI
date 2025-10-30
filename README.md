@@ -22,7 +22,7 @@ Includes a **simulation mode** for development and testing without hardware.
 |------|----------|
 | `Form1.cs` | Main GUI logic |
 | `TIAController.cs` | Bridge between GUI and backend (handles simulation mode) |
-| `Program1.cs` | Original NK732 backend logic |
+| `Program1.cs` | Original NK732 backend logic (Please consult the company if needed.)|
 | `README.md` | This file 😊 |
 
 ---
