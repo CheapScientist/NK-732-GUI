@@ -1,0 +1,62 @@
+
+# Visual Studio build and user files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.pdb
+*.dll
+*.exe
+*.cache
+*.dbmdl
+*.log
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+
+# Publish outputs
+PublishProfiles/
+*.publish.xml
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Rider / JetBrains IDE
+.idea/
+*.iml
+
+# Windows Forms designer temp files
+*.resx~
+*.Designer.cs~
+
+# Optional: ignore local configuration and secrets
+appsettings.Development.json
+*.key
+*.pem
+
+# Optional: ignore images or large assets
+*.png
+*.jpg
+*.bmp
+*.gif
+*.ico
+
+# === Custom ignores ===
+# Ignore a specific file
+Program1.cs
+
+# Ignore a specific folder (recursively)
+img/
