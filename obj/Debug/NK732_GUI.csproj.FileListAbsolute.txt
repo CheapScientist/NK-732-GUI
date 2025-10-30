@@ -1,0 +1,5 @@
+D:\phd notes\physics\NK732GUI\NK732_GUI\NK732_GUI\obj\Debug\NK732_GUI.csproj.AssemblyReference.cache
+D:\phd notes\physics\NK732GUI\NK732_GUI\NK732_GUI\obj\Debug\NK732_GUI.Form1.resources
+D:\phd notes\physics\NK732GUI\NK732_GUI\NK732_GUI\obj\Debug\NK732_GUI.Properties.Resources.resources
+D:\phd notes\physics\NK732GUI\NK732_GUI\NK732_GUI\obj\Debug\NK732_GUI.csproj.GenerateResource.cache
+D:\phd notes\physics\NK732GUI\NK732_GUI\NK732_GUI\obj\Debug\NK732_GUI.csproj.CoreCompileInputs.cache
