@@ -1,6 +1,6 @@
 
 # NK732 GUI
-
+For copyright concerns the library/backend files are not added. Please consult the company if needed. 
 A lightweight **Windows Forms GUI** for the NK732 Time Interval Analyzer, written in C#.  
 Includes a **simulation mode** for development and testing without hardware.
 
